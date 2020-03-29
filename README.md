@@ -4,7 +4,7 @@ Simple 2D liquid simulator. Uses the incompressible Navier-Stokes equations on a
 <img src="/images/horizontalPouring_frames.png">
 
 ### Dependencies:
-* Windows Media Foundation (for outputting viedo)
+* Windows Media Foundation (for outputting video)
 * Microsoft Foundation Classes (for multithreading)
 
 ### Usage:
